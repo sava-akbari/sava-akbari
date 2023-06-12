@@ -1,4 +1,4 @@
-## This is Thesavide✨;
+# This is Thesavide✨;
 
 ### 👩🏻‍💻 Mathematics-Physics student at NODET
 ### 🧠 A philomath who's interested in reading,  programming, physics & music.
