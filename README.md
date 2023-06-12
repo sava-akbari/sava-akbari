@@ -1,7 +1,6 @@
 ## This is Thesavide✨;
 
-### hi
-- 👩🏻‍💻 Mathematics-Physics student at NODET
+### 👩🏻‍💻 Mathematics-Physics student at NODET
 - 🧠 A philomath who's interested in reading,  programming, physics & music.
 - 👀 currently working on programming skils
 <!--
