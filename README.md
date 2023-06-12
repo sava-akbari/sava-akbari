@@ -2,9 +2,9 @@
 
 This is Thesavide✨;
 
-● 👩🏻‍💻 Mathematics-Physics student at NODET
-● 🧠 A philomath who's interested in reading,  programming, physics & music.
-● 👀 currently working on programming skils
+- ● 👩🏻‍💻 Mathematics-Physics student at NODET
+- ● 🧠 A philomath who's interested in reading,  programming, physics & music.
+- ● 👀 currently working on programming skils
 <!--
 **sava-akbari/sava-akbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
