@@ -1,8 +1,15 @@
-# This is Thesavide✨;
+# HELLO WORLD!! ⚡
 
-### 👩🏻‍💻 Mathematics-Physics student at NODET
-### 🧠 A philomath who's interested in reading,  programming, physics & music.
-### 👀 currently learning AI programming 
+I'm **Sava**
+
+⚡️ EE Freshman @ Shahid Beheshti University | ex-NODET
+🧠 Philomath | C • Circuits • Physics • Curiosity
+👀 Currently diving into C programming and digital systems
+
+Skills in progress:
+- C • Python • Digital Logic • Circuit Analysis
+
+🎶 Fueled by music, books, and way too much coffee
 <!--
 **sava-akbari/sava-akbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
