@@ -14,10 +14,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sava-akbari/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)]([https://pin.it/7w/](www.pinterest.com/savainwonderland/))
 
-### GitHub Stats ⚡
-[![Sava's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sava-akbari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/sava-akbari)
+### My GitHub Stats ⚡
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sava-akbari&layout=compact&theme=radical&hide_border=true)](https://github.com/sava-akbari)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sava-akbari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Sava's GitHub Stats" />
+</p>
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sava-akbari&theme=radical&hide_border=true)](https://github.com/sava-akbari)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sava-akbari&theme=radical&hide_border=true" alt="Sava's GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sava-akbari&layout=compact&theme=radical&hide_border=true" alt="Sava's Top Languages" />
+</p>
