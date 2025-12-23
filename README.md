@@ -17,13 +17,5 @@
 ### My GitHub Stats ⚡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sava-akbari&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=prs" alt="Sava's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sava-akbari&theme=radical&hide_border=true" alt="Sava's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sava-akbari&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Sava's Top Languages" />
-</p>
+</p>>
