@@ -17,5 +17,5 @@
 ### My GitHub Stats ⚡
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sava-akbari&theme=radical&hide_border=true" alt="Sava's GitHub Streak" />
-</p>>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sava-akbari&theme=radical&hide_border=true" alt="Sava's GitHub Streak" />
+</p>
